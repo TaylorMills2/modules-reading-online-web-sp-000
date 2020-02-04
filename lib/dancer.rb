@@ -9,9 +9,7 @@ class Dancer
 end
 
 
-class Dancer
-  extend MetaDancing
-end
+
 
 
 class Dancer
